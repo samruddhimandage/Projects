@@ -1,0 +1,2 @@
+# Main dependency used by 3_LSTM_model.py
+tensorflow
