@@ -1,0 +1,6 @@
+Tested package targets for a Python 3.13, 64-bit environment.
+
+Install with: python -m pip install -r requirements.txt
+
+tensorflow==2.20.0 opencv-python==4.11.0.86 numpy==2.1.3
+matplotlib==3.10.7 pandas==2.3.3 scikit-learn==1.7.2
